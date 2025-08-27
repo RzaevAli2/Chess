@@ -1,0 +1,2 @@
+# Chess
+Game project "Chess".
